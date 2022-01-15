@@ -107,7 +107,7 @@ $('#yes').click(function() {
         background: '#fff url("img/iput-bg.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
-              url("https://www.pinterest.com/pin/579627414545446741/")
+              url("img/bắn súng.jpg")
               left top
               no-repeat
             `,
