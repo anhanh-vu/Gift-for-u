@@ -9,8 +9,8 @@ const CONFIG = {
     question:'Tết nhớ lì xì 😜!!!',
     btnReply: 'Okeeee 👌👌👌',
     reply: 'Nooo',
-    mess: 'Bạn đã bị lừa :v',
-    messDesc: 'Hmmmm🤭🤭🤭 <3 .',
+    mess: 'Năm mới có người iu😚 :v',
+    messDesc: '🤭🤭🤭 <3 .',
     btnAccept: 'inbox để lì xì mình😆 ',
     messLink: 'https://www.facebook.com/vuanh.psyduck'
 }
