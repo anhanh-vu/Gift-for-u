@@ -7,7 +7,7 @@ const CONFIG = {
     btnYes: ' Lì xì mình😆 ! ',
     btnNo: 'Nhận lì xì!!!🎁',
     question:'Tết nhớ lì xì 😜!!!',
-    btnReply: '',
+    btnReply: 'Okeeee 👌👌👌',
     reply: 'Okeeee luôn 👌👌👌 ',
     mess: 'Năm mới có người iu😚 :v',
     messDesc: '🤭🤭🤭 <3 .',
