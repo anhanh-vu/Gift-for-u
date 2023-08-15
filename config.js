@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Năm mới có người iu😚 :v',
     messDesc: '🤭🤭🤭 <3 .',
     btnAccept: 'inbox để lì xì mình😆 ',
-    messLink: 'https://www.facebook.com/vuaanh.psyduck'
+    messLink: 'https://www.facebook.com/vuuaannh'
 }
